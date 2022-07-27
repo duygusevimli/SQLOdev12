@@ -1,0 +1,2 @@
+# SQLOdev12
+SQLÖDEVİ12
